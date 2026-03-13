@@ -11,35 +11,57 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **PhD in Applied Mathematics / Scientific Machine Learning**, CNAM (Conservatoire National des Arts et Métiers), Paris, 2021–2024
+  * *Machine learning strategies for accelerating numerical simulations of fluid-structure interaction*
+  * Supervised by Pr. I. Mortazavi, Pr. F. De Vuyst, T. Dairay, J-P. Berro Ramirez
+  * HAL Id: [tel-05269807](https://theses.hal.science/tel-05269807)
+* **Summer School – Scientific Machine Learning**, CEMRACS 2023, CIRM, Marseille, July 2023
+* **Mechanical Engineering Degree**, ENSAM (École Nationale Supérieure d'Arts et Métiers), Paris, 2017–2021
+  * Silver Medal – Rank: 83/1180
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Computational R&D Engineer** — Michelin, Clermont-Ferrand (Dec 2024 – Present)
+  * Part of a team developing an industrial finite element framework
+  * Led the development of a coupling interface between the industrial code and ML-based external packages
+  * Developed advanced tyre simulation features with complex boundary conditions handling
+  * Supervised an internship on fluid-structure interaction simulations
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **PhD Student — Research Engineer** — M2N, CNAM / Michelin / Altair, Paris (Nov 2021 – Oct 2024)
+  * Machine Learning-based Reduced Order Models (ROMs) for fluid-structure interaction (FSI)
+  * Studied and extended data-driven system identification methods
+  * Developed new techniques to couple ROMs and classical methods for FSI simulations
+  * Developed ML-based methods to accelerate convergence of FSI coupling algorithms
+  * Contributed to open-source scientific software and maintained in-house ROM packages
+  * Published 2 journal articles and multiple international conference communications
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+* **Visiting PhD Student** — Esteco (previously Optimad), Turin (Feb 2024 – Mar 2024)
+  * Explored stability properties of data-driven reduced order models
+
+* **Substitute Teacher** — CNAM, Paris (Sep 2022 – Jan 2024)
+  * Taught practical work on Numerical Methods, Fluid Mechanics and Functional Analysis
+
+* **Simulation Research Engineer (Master's Thesis)** — Dassault Systèmes, Vélizy-Villacoublay (Mar 2021 – Aug 2021)
+  * Data-Driven Computational Mechanics (DDCM)
+  * Studied numerical convergence and extension to non-elastic and multiscale problems
+  * Extended the approach using manifold learning and noisy optimization techniques
+  * Developed in-house code and its coupling with a finite element solver
+
+* **Simulation Software QA Intern** — Coventor Inc. (Lam Research), Villebon-sur-Yvette (Jun 2020 – Aug 2020)
+  * Wrote tests for meshing features of MEMS+, involving numerical analysis and electromechanical modeling
+
+Technical Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming**: Python, C++, C, Matlab
+* **Scientific Computing**: PETSc, KratosMultiphysics, FEniCS, scikit-fem, NumPy, PyTorch, scikit-learn, PyVista, Paraview
+* **Tools**: Git, Linux, LaTeX
+* **Scientific Expertise**: Linear Algebra, Dynamical Systems, Numerical Methods, Computational Mechanics, Finite Element Method, Multiphysics Coupling, Dimensionality Reduction, Manifold Learning
+
+Languages
+======
+* **English** (TOEIC: 985/990)
+* **French**
+* **Arabic**
 
 Publications
 ======
@@ -58,7 +80,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

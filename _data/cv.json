@@ -1,152 +1,263 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Azzeddine Tiba",
+    "email": "azzeddine.tiba@gmail.com",
+    "phone": "+33 7 66 66 05 83",
+    "website": "https://azzeddinetiba.github.io",
+    "summary": "Scientific Machine Learning Research Engineer at Michelin. PhD from CNAM Paris on machine learning strategies for accelerating numerical simulations of fluid-structure interaction.",
     "location": {
       "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "postalCode": "63000",
+      "city": "Clermont-Ferrand",
+      "countryCode": "FR",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "username": "Azzeddine Tiba",
+        "url": "https://scholar.google.com/citations?hl=en&user=oKFk5PwAAAAJ"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "username": "0000-0003-3578-141X",
+        "url": "https://orcid.org/0000-0003-3578-141X"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "azzeddinetiba",
+        "url": "https://github.com/azzeddinetiba"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "azzeddine-tiba",
+        "url": "https://www.linkedin.com/in/azzeddine-tiba"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Michelin",
+      "position": "Computational R&D Engineer",
+      "website": "https://www.michelin.com/",
+      "startDate": "2024-12-01",
+      "endDate": "",
+      "summary": "Part of a team developing an industrial finite element framework. Led development of a coupling interface between the industrial code and ML-based external packages. Developed advanced tyre simulation features. Supervised an internship on FSI simulations.",
+      "highlights": []
+    },
+    {
+      "company": "M2N, CNAM - Michelin, Altair",
+      "position": "PhD Student - Research Engineer",
+      "website": "",
+      "startDate": "2021-11-01",
+      "endDate": "2024-10-31",
+      "summary": "Machine Learning-based Reduced Order Models (ROMs) for fluid-structure interaction (FSI). Published 2 journal articles and multiple international conference communications.",
+      "highlights": []
+    },
+    {
+      "company": "Esteco (Previously Optimad)",
+      "position": "Visiting PhD Student",
+      "website": "",
+      "startDate": "2024-02-01",
+      "endDate": "2024-03-31",
+      "summary": "Explored stability properties of data-driven reduced order models.",
+      "highlights": []
+    },
+    {
+      "company": "CNAM",
+      "position": "Substitute Teacher",
+      "website": "",
+      "startDate": "2022-09-01",
+      "endDate": "2024-01-31",
+      "summary": "Taught practical work on Numerical Methods, Fluid Mechanics and Functional Analysis.",
+      "highlights": []
+    },
+    {
+      "company": "Dassault Systèmes",
+      "position": "Simulation Research Engineer (Master's Thesis)",
+      "website": "",
+      "startDate": "2021-03-01",
+      "endDate": "2021-08-31",
+      "summary": "Data-Driven Computational Mechanics (DDCM). Studied numerical convergence and extension to non-elastic and multiscale problems. Extended the approach using manifold learning and noisy optimization techniques.",
+      "highlights": []
+    },
+    {
+      "company": "Coventor Inc. (Lam Research)",
+      "position": "Simulation Software QA Intern",
+      "website": "",
+      "startDate": "2020-06-01",
+      "endDate": "2020-08-31",
+      "summary": "Wrote tests for meshing features of MEMS+, involving numerical analysis and electromechanical modeling.",
+      "highlights": []
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "CNAM - Conservatoire National des Arts et Métiers",
+      "area": "Applied Mathematics / Scientific Machine Learning",
+      "studyType": "PhD",
+      "startDate": "2021-11-01",
+      "endDate": "2024-11-01",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "institution": "CEMRACS 2023, CIRM",
+      "area": "Scientific Machine Learning",
+      "studyType": "Summer School",
+      "startDate": "2023-07-01",
+      "endDate": "2023-07-31",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "institution": "ENSAM - École Nationale Supérieure d'Arts et Métiers",
+      "area": "Mechanical Engineering",
+      "studyType": "Engineering Degree",
+      "startDate": "2017-09-01",
+      "endDate": "2021-08-31",
+      "gpa": "Silver Medal - Rank: 83/1180",
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": ["Python", "C++", "C", "Matlab"]
+    },
+    {
+      "name": "Scientific Computing",
+      "keywords": ["PETSc", "KratosMultiphysics", "FEniCS", "scikit-fem", "NumPy", "PyTorch", "scikit-learn", "PyVista", "Paraview"]
+    },
+    {
+      "name": "Tools",
+      "keywords": ["Git", "Linux", "LaTeX"]
+    },
+    {
+      "name": "Scientific Expertise",
+      "keywords": ["Linear Algebra", "Dynamical Systems", "Numerical Methods", "Computational Mechanics", "Finite Element Method", "Multiphysics Coupling", "Dimensionality Reduction", "Manifold Learning"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "TOEIC: 985/990"
+    },
+    {
+      "language": "French",
+      "fluency": "Native"
+    },
+    {
+      "language": "Arabic",
+      "fluency": "Native"
+    }
+  ],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Machine-learning enhanced predictors for accelerated convergence of partitioned fluid-structure interaction simulations",
+      "publisher": "Computer Physics Communications",
+      "releaseDate": "2025-01-01",
+      "website": "https://doi.org/10.1016/j.cpc.2025.109522",
+      "summary": "Develops ML-enhanced predictors to accelerate convergence of partitioned FSI coupling algorithms."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Non-intrusive reduced order models for partitioned fluid–structure interactions",
+      "publisher": "Journal of Fluids and Structures",
+      "releaseDate": "2024-01-01",
+      "website": "https://doi.org/10.1016/j.jfluidstructs.2024.104156",
+      "summary": "Presents non-intrusive reduced order models for partitioned fluid-structure interaction simulations."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Machine Learning to Accelerate Fluid-Structure Interaction Simulations",
+      "publisher": "FSSIC 2025 Symposium Proceedings",
+      "releaseDate": "2025-06-01",
+      "website": "",
+      "summary": "Accepted conference paper on ML methods to accelerate FSI simulations."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Dynamical Data-Driven Model Order Reduction for nonlinear Fluid-Structure Interaction problems",
+      "publisher": "25è Congrès Français de Mécanique",
+      "releaseDate": "2022-01-01",
+      "website": "",
+      "summary": "Conference paper on dynamical data-driven model order reduction for nonlinear FSI."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "ICCE Conference",
+      "event": "ICCE Conference 2024",
+      "date": "2024-10-01",
+      "location": "Darmstadt, Germany",
+      "description": "Invited talk"
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
+      "name": "CEACM S4ML Conference",
+      "event": "CEACM S4ML Conference",
+      "date": "2024-06-01",
+      "location": "Prague, Czech Republic",
+      "description": "Invited talk"
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
+      "name": "ECCOMAS 2024",
+      "event": "ECCOMAS Congress 2024",
+      "date": "2024-06-15",
+      "location": "Lisbon, Portugal",
+      "description": "Invited talk"
     },
     {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "ERCOFTAC 2023",
+      "event": "ERCOFTAC Conference",
+      "date": "2023-06-01",
+      "location": "Toulouse, France",
+      "description": "Invited talk"
+    },
+    {
+      "name": "1st Aria Workshop",
+      "event": "Aria Workshop",
+      "date": "2023-03-01",
+      "location": "Bordeaux, France",
+      "description": "Invited talk"
+    },
+    {
+      "name": "CANUM 2022",
+      "event": "CANUM - Congrès d'Analyse Numérique",
+      "date": "2022-06-01",
+      "location": "Evian-les-Bains, France",
+      "description": "Invited talk"
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Numerical Methods, Fluid Mechanics and Functional Analysis",
+      "institution": "CNAM, Paris",
+      "date": "2022-09-01",
+      "role": "Substitute Teacher (Practical Work)",
+      "description": "Taught practical work on Numerical Methods, Fluid Mechanics and Functional Analysis."
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
+      "name": "ROM_AM",
       "category": "portfolio",
       "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "url": "https://github.com/azzeddinetiba/ROM_AM",
+      "description": "A Non-intrusive Reduced Order Modeling package using data-driven methods and Machine Learning."
+    },
+    {
+      "name": "FeCLAP",
+      "category": "portfolio",
+      "date": "",
+      "url": "https://github.com/azzeddinetiba/FeCLAP",
+      "description": "A finite element package for the simulation of laminated composite plates in elasticity and plasticity."
+    },
+    {
+      "name": "ROM-FOM Coupling Workshop",
+      "category": "portfolio",
+      "date": "",
+      "url": "https://github.com/FsiROM/SIMWorkshop",
+      "description": "Tutorial-like course on non-intrusive coupling between Reduced Order Models and Classical models."
     }
   ]
 }
