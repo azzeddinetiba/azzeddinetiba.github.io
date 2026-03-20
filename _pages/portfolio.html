@@ -7,8 +7,27 @@ author_profile: true
 
 {% include base_path %}
 
+<p>
+  For a comprehensive overview of my software projects, visit my GitHub profile:
+</p>
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+<p style="font-size: 1.2em;">
+  <a href="https://github.com/azzeddinetiba" target="_blank">
+    <i class="fab fa-fw fa-github" aria-hidden="true"></i> github.com/azzeddinetiba
+  </a>
+</p>
+
+<hr/>
+
+<details>
+  <summary style="cursor: pointer; font-size: 1.17em; font-weight: bold;">
+    Honorable mentions
+  </summary>
+
+  <div style="margin-top: 1em;">
+    {% for post in site.portfolio %}
+      {% include archive-single.html %}
+    {% endfor %}
+  </div>
+</details>
 

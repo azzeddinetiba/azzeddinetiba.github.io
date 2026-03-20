@@ -80,3 +80,7 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Gallery
+======
+* **PhD Thesis — Video Abstract**: An illustrative summary of the main contributions of my PhD thesis on ML-accelerated fluid-structure interaction simulations. [Watch the video](/gallery/)

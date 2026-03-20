@@ -23,4 +23,6 @@ Background
 ======
 I obtained my engineering degree in Mechanical Engineering from [ENSAM (École Nationale Supérieure d'Arts et Métiers)](https://artsetmetiers.fr/) in Paris (Silver Medal - Rank: 83/1180). I then pursued a PhD at [CNAM](https://www.cnam.fr/) in collaboration with [Michelin](https://www.michelin.com/) and [Altair](https://altair.com/), supervised by [Pr. I. Mortazavi](https://scholar.google.com/citations?user=DokRauAAAAAJ&hl=fr), [Pr. F. De Vuyst](https://fdevuyst.jimdofree.com/), [T. Dairay](https://scholar.google.co.uk/citations?user=L_eRA6YAAAAJ&hl=en), and [J-P. Berro Ramirez](https://scholar.google.com/citations?user=W5JDZ7IAAAAJ&hl=fr).
 
-I am also an active contributor to open-source scientific software, including [KratosMultiphysics](https://github.com/KratosMultiphysics/Kratos) and [PyDMD](https://github.com/PyDMD/PyDMD), and the developer of [ROM_AM](https://github.com/azzeddinetiba/ROM_AM), a non-intrusive reduced order modeling package.
+I am also an active contributor to open-source scientific software. See [Software](https://azzeddinetiba.github.io/portfolio/).
+
+I'm having fun being the sole maintainer (and probably the user :smile: ) of [ROM_AM](https://github.com/azzeddinetiba/ROM_AM), a non-intrusive reduced order modeling package I started developing during my PhD.
