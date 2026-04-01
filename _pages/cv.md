@@ -22,10 +22,11 @@ Education
 Work Experience
 ======
 * **Computational R&D Engineer** — Michelin, Clermont-Ferrand (Dec 2024 – Present)
-  * Part of a team developing an industrial finite element framework
-  * Led the development of a coupling interface between the industrial code and ML-based external packages
+  * Part of a team developing and modernizing a large-scale industrial finite element framework.
+   <!-- designed for massively parallel HPC environments
+  * Led the development of a coupling interface between the parallel solver and ML-based external packages, ensuring MPI scalability across the integration layer (mpi4py)
   * Developed advanced tyre simulation features with complex boundary conditions handling
-  * Supervised an internship on fluid-structure interaction simulations
+  * Supervised an internship on fluid-structure interaction simulations -->
 
 * **PhD Student — Research Engineer** — M2N, CNAM / Michelin / Altair, Paris (Nov 2021 – Oct 2024)
   * Machine Learning-based Reduced Order Models (ROMs) for fluid-structure interaction (FSI)
@@ -55,7 +56,7 @@ Technical Skills
 * **Programming**: Python, C++, C, Matlab
 * **Scientific Computing**: PETSc, KratosMultiphysics, FEniCS, scikit-fem, NumPy, PyTorch, scikit-learn, PyVista, Paraview
 * **Tools**: Git, Linux, LaTeX
-* **Scientific Expertise**: Linear Algebra, Dynamical Systems, Numerical Methods, Computational Mechanics, Finite Element Method, Multiphysics Coupling, Dimensionality Reduction, Manifold Learning
+* **Scientific Expertise**: Linear Algebra, Dynamical Systems, Nonlinear Solvers, Computational Mechanics, Finite Element Method, Multiphysics Coupling, Reduced-Order Modeling, Manifold Learning
 
 Languages
 ======

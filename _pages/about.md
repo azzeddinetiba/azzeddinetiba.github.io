@@ -13,11 +13,10 @@ My work lies at the intersection of **scientific computing**, **machine learning
 
 Research Interests
 ======
-- **Reduced Order Modeling**: Non-intrusive methods using data-driven approaches and machine learning
-- **Fluid-Structure Interaction**: Partitioned coupling schemes, convergence acceleration
-- **Scientific Machine Learning**: Physics-informed methods, system identification
-- **Computational Mechanics**: Finite element method, multiphysics simulations
-- **Data-Driven Computing**: Data-Driven Computational Mechanics (DDCM), manifold learning
+- **Reduced Order Modeling**: Manifold learning, Dynamical systems, DMD.
+- **Fluid-Structure Interaction**: Partitioned coupling schemes, black-box coupling, convergence acceleration.
+- **Scientific Machine Learning**: Hybrid physics-ML methods, system identification, Data-Driven Computational Mechanics (DDCM).
+- **Computational Mechanics**: Finite element method, multiphysics simulations, nonlinear solvers.
 
 Background
 ======

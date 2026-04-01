@@ -4,7 +4,7 @@ excerpt: "Contributions to KratosMultiphysics and PyDMD open-source projects.<br
 collection: portfolio
 ---
 
-Active contributions to major open-source scientific computing projects:
+Some contributions to open-source scientific computing projects:
 
-- **KratosMultiphysics**: Implemented new functionalities to the KratosMultiphysics framework — [PR #11780](https://github.com/KratosMultiphysics/Kratos/pull/11780)
+- **KratosMultiphysics**: Implemented a Quasi-Newton method in the KratosMultiphysics framework — [PR #11780](https://github.com/KratosMultiphysics/Kratos/pull/11780)
 - **PyDMD**: Implemented features to the PyDMD (Dynamic Mode Decomposition) package — [PR #241](https://github.com/PyDMD/PyDMD/pull/241)

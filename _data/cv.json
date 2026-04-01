@@ -42,7 +42,7 @@
       "website": "https://www.michelin.com/",
       "startDate": "2024-12-01",
       "endDate": "",
-      "summary": "Part of a team developing an industrial finite element framework. Led development of a coupling interface between the industrial code and ML-based external packages. Developed advanced tyre simulation features. Supervised an internship on FSI simulations.",
+      "summary": "Part of a team developing a large-scale industrial finite element framework designed for massively parallel HPC environments.",
       "highlights": []
     },
     {
@@ -135,7 +135,7 @@
     },
     {
       "name": "Scientific Expertise",
-      "keywords": ["Linear Algebra", "Dynamical Systems", "Numerical Methods", "Computational Mechanics", "Finite Element Method", "Multiphysics Coupling", "Dimensionality Reduction", "Manifold Learning"]
+      "keywords": ["Linear Algebra", "Dynamical Systems", "Nonlinear Solvers", "Computational Mechanics", "Finite Element Method", "Multiphysics Coupling", "Reduced-Order Modeling", "Manifold Learning"]
     }
   ],
   "languages": [
