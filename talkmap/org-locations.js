@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "CANUM<br />CANUM; Evian-les-Bains, France",
-    46.400979,
-    6.5897931
+    "CANUM 2022 <br />VVF Villages; Evian-les-Bains, France",
+    46.4023409,
+    6.6116645
   ],
   [
     "ERCOFTAC<br />ERCOFTAC; Toulouse, France",
