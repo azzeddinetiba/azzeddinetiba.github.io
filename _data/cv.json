@@ -186,8 +186,22 @@
   ],
   "presentations": [
     {
+      "name": "SPARCL Workshop",
+      "event": "SPARCL Workshop",
+      "date": "2026-04-01",
+      "location": "Paris, France",
+      "description": "Talk"
+    },
+    {
+      "name": "37ème Séminaire de mécanique des fluides numérique",
+      "event": "37ème Séminaire de mécanique des fluides numérique (SMAI-GAMNI)",
+      "date": "2025-01-01",
+      "location": "IHP, Paris",
+      "description": "Talk"
+    },
+    {
       "name": "ICCE Conference",
-      "event": "ICCE Conference 2024",
+      "event": "ICCE Conference",
       "date": "2024-10-01",
       "location": "Darmstadt, Germany",
       "description": "Invited talk"
@@ -200,29 +214,36 @@
       "description": "Invited talk"
     },
     {
-      "name": "ECCOMAS 2024",
-      "event": "ECCOMAS Congress 2024",
+      "name": "ECCOMAS",
+      "event": "ECCOMAS",
       "date": "2024-06-15",
       "location": "Lisbon, Portugal",
       "description": "Invited talk"
     },
     {
-      "name": "ERCOFTAC 2023",
-      "event": "ERCOFTAC Conference",
+      "name": "ERCOFTAC",
+      "event": "ERCOFTAC",
       "date": "2023-06-01",
       "location": "Toulouse, France",
       "description": "Invited talk"
     },
     {
+      "name": "SIA Simulation Numérique",
+      "event": "SIA Simulation Numérique",
+      "date": "2023-04-01",
+      "location": "Champs-sur-Marne, France",
+      "description": "Talk"
+    },
+    {
       "name": "1st Aria Workshop",
-      "event": "Aria Workshop",
+      "event": "1st Aria Workshop",
       "date": "2023-03-01",
       "location": "Bordeaux, France",
       "description": "Invited talk"
     },
     {
-      "name": "CANUM 2022",
-      "event": "CANUM - Congrès d'Analyse Numérique",
+      "name": "CANUM",
+      "event": "CANUM",
       "date": "2022-06-01",
       "location": "Evian-les-Bains, France",
       "description": "Invited talk"
