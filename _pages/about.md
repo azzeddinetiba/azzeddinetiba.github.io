@@ -24,4 +24,4 @@ I obtained my engineering degree in Mechanical Engineering from [ENSAM (École N
 
 I am also an active contributor to open-source scientific software. See [Software](https://azzeddinetiba.github.io/portfolio/).
 
-I'm having fun being the sole maintainer (and probably the user :smile: ) of [ROM_AM](https://github.com/azzeddinetiba/ROM_AM), a non-intrusive reduced order modeling package I started developing during my PhD.
+I'm the primary maintainer (and an enthusiastic user!) of [ROM_AM](https://github.com/azzeddinetiba/ROM_AM), a non-intrusive reduced order modeling package I started developing during my PhD.
