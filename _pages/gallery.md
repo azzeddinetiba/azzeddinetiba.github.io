@@ -7,6 +7,8 @@ author_profile: true
 
 A collection of videos illustrating my research work.
 
+Click each section below to reveal the animation.
+
 ---
 
 ## PhD Thesis — Video Abstract
@@ -27,14 +29,47 @@ This video presents a brief illustrative abstract of the main contributions of m
 
 ---
 
-## Inviscid incompressible flow inside a flexible tube
+<style>
+details {
+  margin: 1.2rem 0;
+  border: 1px solid #e5e7eb;
+  border-radius: 6px;
+  overflow: hidden;
+}
 
-![FLexible tube animation](../images/animations/flexibletube.gif)
+summary {
+  cursor: pointer;
+  padding: 0.8rem 1rem;
+  background: #f8f9fa;
+  font-weight: 600;
+}
 
+details[open] summary {
+  border-bottom: 1px solid #e5e7eb;
+}
 
-## ROM-FOM solid displacement comparison
+details > *:not(summary) {
+  padding: 1rem;
+}
+</style>
 
-![ROM-FOM animation](../images/animations/solid_comp.gif)
+<details>
+  <summary>Inviscid incompressible flow inside a flexible tube</summary>
+
+  ![FLexible tube animation](../images/animations/flexibletube.gif)
+</details>
+
+<details>
+  <summary>ROM-FOM solid displacement comparison</summary>
+
+  ![ROM-FOM animation](../images/animations/solid_comp.gif)
+</details>
+
+<details>
+  <summary>Strong fluid-structure interaction simulation</summary>
+
+  ![Double Flap animation](../images/animations/contours.gif)
+</details>
 
 <!-- Future videos can be added as new sections below -->
 <!-- ## Another Video Title -->
