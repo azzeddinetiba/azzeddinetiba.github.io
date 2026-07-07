@@ -29,8 +29,12 @@ This video presents a brief illustrative abstract of the main contributions of m
 
 ## Inviscid incompressible flow inside a flexible tube
 
-![Demo animation](../images/animations/flexibletube.gif)
+![FLexible tube animation](../images/animations/flexibletube.gif)
 
+
+## ROM-FOM solid displacement comparison
+
+![ROM-FOM animation](../images/animations/solid_comp.gif)
 
 <!-- Future videos can be added as new sections below -->
 <!-- ## Another Video Title -->
