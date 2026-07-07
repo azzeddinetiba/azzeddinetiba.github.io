@@ -62,13 +62,15 @@ details > *:not(summary) {
 <details>
   <summary>ROM-FOM solid displacement comparison</summary>
 
-  ![ROM-FOM animation](../images/animations/solid_comp.gif)
+
+  <img src="../images/animations/solid_comp.gif" alt="ROM-FOM animation">
 </details>
 
 <details>
   <summary>Strong fluid-structure interaction simulation</summary>
 
-  ![Double Flap animation](../images/animations/contours.gif)
+
+  <img src="../images/animations/contours.gif" alt="Double Flap animation">
 </details>
 
 <!-- Future videos can be added as new sections below -->
