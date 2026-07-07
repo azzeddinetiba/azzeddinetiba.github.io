@@ -56,7 +56,7 @@ details > *:not(summary) {
 <details>
   <summary>Inviscid incompressible flow inside a flexible tube</summary>
 
-  ![FLexible tube animation](../images/animations/flexibletube.gif)
+  <img src="../images/animations/flexibletube.gif" alt="Flexible tube animation">
 </details>
 
 <details>
