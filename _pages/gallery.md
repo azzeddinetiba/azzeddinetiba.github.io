@@ -27,5 +27,11 @@ This video presents a brief illustrative abstract of the main contributions of m
 
 ---
 
+## Inviscid incompressible flow inside a flexible tube
+
+![Demo animation](../images/animations/flexibletube.gif)
+
+
 <!-- Future videos can be added as new sections below -->
 <!-- ## Another Video Title -->
+
