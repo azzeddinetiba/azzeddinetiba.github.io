@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2022-cfm-dyn-ddrom
 excerpt: 'Conference paper on dynamical data-driven model order reduction for nonlinear FSI problems.'
-date: 2022-01-01
+date: 2022-08-29
 venue: '25è Congrès Français de Mécanique'
 citation: 'Azzeddine Tiba, Thibault Dairay, Florian De Vuyst, Iraj Mortazavi, Juan Pedro Berro Ramirez. (2022). &quot;Dynamical Data-Driven Model Order Reduction for nonlinear Fluid-Structure Interaction problems.&quot; <i>25è Congrès Français de Mécanique</i>. pp. 151-158.'
 ---
