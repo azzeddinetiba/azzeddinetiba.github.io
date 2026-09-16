@@ -35,6 +35,13 @@ details > *:not(summary) {
 }
 </style>
 
+
+<details>
+  <summary>Offline training of a parametric Reduced Order Model (ROM) - Different points on the Grassmann manifold</summary>
+
+  <img src="../images/animations/anim_offline_adaptive.gif" alt="Offline parametric ROM">
+</details>
+
 <details>
   <summary>Inviscid incompressible flow inside a flexible tube</summary>
 
