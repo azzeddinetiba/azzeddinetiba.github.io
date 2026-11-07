@@ -21,7 +21,7 @@ Education
 
 Work Experience
 ======
-* **Computational R&D Engineer** — Michelin, Clermont-Ferrand (Dec 2024 – Present)
+* **Computational R&D Engineer** — Michelin (Dec 2024 – Present)
   * Part of a team developing and modernizing a large-scale industrial finite element framework.
 
 * **PhD Student — Research Engineer** — M2N, CNAM / Michelin / Altair, Paris (Nov 2021 – Oct 2024)
